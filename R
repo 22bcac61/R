@@ -12,5 +12,7 @@ int main()
     printf("FALSE"); 
   } 
   getchar(); 
+  return 0;
+getchar(); 
   return 0; 
 }
